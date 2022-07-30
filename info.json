@@ -1,0 +1,9 @@
+{
+  "name": "japanese_voice_alerts",
+  "version": "1.0.0",
+  "title": "Japanese Voice Alerts",
+  "author": "nojio",
+  "description": "Adds japanese voice alert sounds for programmable speakers.",
+  "factorio_version": "1.1",
+  "dependencies": [ "base >= 1.1.0" ]
+}
